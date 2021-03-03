@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jorge",
+    "apellido": "Perez",
+    "cuit": 20330049494,
+    "banco": "HSBC",
+    "fecha_nac": "15/05/1987",
+    "turno": "Mañana",
+    "legajo": "AC20402",
+    "mail": "jorgeperez222@hotmail.com",
+    "telefono": "2234050500",
+    "direccion": "Lopez de Gomara 3400",
+    "sexo": "Masculino",
+    "sueldo": 250000
+  },
+  {
+    "id": 1,
+    "nombre": "Lucas",
+    "apellido": "Prodan",
+    "cuit": 20273449112,
+    "banco": "BBVA",
+    "fecha_nac": "27/03/1982",
+    "turno": "Tarde",
+    "legajo": "AC2021",
+    "mail": "lucasprod82@hotmail.com",
+    "telefono": "22393429290",
+    "direccion": "Av Colon 1200 4°F",
+    "sexo": "Masculino",
+    "sueldo": 265000
+  }
+]
